@@ -9,6 +9,8 @@
     width: 100%;
 }
 .logoName{
+    color: inherit;
+    text-decoration: none;
     font-family: "Abril Fatface", serif;
   font-weight: 400;
   font-style: normal;
